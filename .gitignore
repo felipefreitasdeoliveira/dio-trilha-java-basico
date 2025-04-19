@@ -4,6 +4,7 @@
 # Log file
 *.log
 
+/conta-banco/.vscode
 # BlueJ files
 *.ctxt
 
